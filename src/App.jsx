@@ -10,7 +10,7 @@ import Footer from './sections/Footer'
 
 const App = () => {
   return (
-    <>
+    <div className='h-dvh w-full'>
       <Header />
       <Hero />
       <About />
@@ -19,7 +19,7 @@ const App = () => {
       <Packages />
       <Features />
       <Footer />
-    </>
+    </div>
   )
 }
 
