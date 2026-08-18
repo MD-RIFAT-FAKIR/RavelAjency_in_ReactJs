@@ -23,7 +23,7 @@ const Hero = () => {
         <div className='relative h-ful w-full flex flex-col items-center justify-center gap-6 z-10 px-6'>
             <h1 data-aos="zoom-in" data-aos-dely="100" className='text-white capitalize text-bold lg:text-6xl text-4xl text-center font-fahkwang  font-bold px-6' >explore every beautiful <br />destination</h1>
             <p data-aos="zoom-in" data-aos-dely="200" className='text-white text-md text-center w-full lg:w-[50%]'>Lorem ipsum dolor, adipisicing elit. Deleniti sit amet consectetur adipisicing elit. Deleniti reiciendis repellendus suscipit totam possimus reprehenderit ipsam laboriosam? </p>
-            <button data-aos="zoom-in" data-aos-dely="300" className='bg-orange-600 mt-5 text-semibold px-5 py-3 capitalize text-white border rounded active:scale-95 cursor-pointer ' >book now</button>
+            <button data-aos="zoom-in" data-aos-dely="300" className='bg-orange-600 mt-5 text-semibold px-5 py-3 capitalize text-white font-fahkwang border rounded active:scale-95 cursor-pointer ' >book now</button>
         </div>
         
     </div>
